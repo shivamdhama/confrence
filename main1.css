@@ -1,0 +1,280 @@
+body{
+    
+    width:auto;
+    height: auto;
+    background: white;
+    color: #888;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+.heading{
+    
+    margin-left: 60px;
+    color: azure;
+    display: inline-block;
+    padding-left: 0px;
+    font-size: 48px;
+    font-weight:lighter;
+    text-transform: uppercase;
+     border-top: 4px solid #648880;
+    line-height: 50px;
+ 
+     
+  
+  vertical-align: baseline;
+
+}
+.venue{
+    color: #648880;
+    padding-right: 20px;
+    padding-top: 50px;
+    float: right;
+    
+}
+.option{
+
+    margin-top: 20px;
+    font-size: 14px;
+    float: right;
+    clear: both;
+    text-transform: uppercase;
+     letter-spacing: 2px;
+    margin-right: 20px;
+    padding-right: 30px;
+}
+.im{
+    margin-top: -50px;
+    margin-bottom: 10px;
+    clear: both;
+    float: right;
+    margin-left: 50px;
+    border-radius: 5px;
+    width: 200px;
+    height: 150px;
+    padding-right: 20px;
+    padding-top: -40px;
+    
+    
+}
+.text{
+    margin-left: -10px;
+    margin-right: -10px;
+    line-height: 44px;
+    font-weight: 400;
+font-size: 30px;
+
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+}
+.text p{
+    font-size: 24px;
+}
+.shivam{
+    background-color: white;
+    padding-top: 60px;
+    padding-left: 250px;
+    padding-right: 130px;
+   
+    padding-bottom:70px;
+    
+}
+.nav{
+   padding-right: 15px;
+    float: right;
+    clear: both;
+}
+.foot{
+     margin-left: -10px;
+    margin-right: -10px;
+    width: auto;
+     background: #466368;
+  background: radial-gradient(#648880, #293f50);
+    margin-top: 30px;
+    padding-bottom: 100px;
+    margin-bottom: -10px;
+}
+.head a
+
+ {
+     text-decoration: none;
+ color: #fff;
+}
+.foot a{
+    text-decoration: none;
+    color: #fff;
+}
+.head a:hover,
+.foot a:hover{
+    
+    color: #648880;
+}
+.foot small{
+    margin-left: 15px;
+    padding-top: 20px;
+     float: left;
+    font-weight: 400;
+    font-family: cursive;
+}
+.head{
+    clear: both;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-bottom: 100px;
+     background: #466368;
+  background: radial-gradient(#648880, #293f50);
+}
+.sp{
+    font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: darkslategrey;
+    font-size: 50px;
+    text-shadow: 6px 6px 5px rgba(0, 0, 0, .2);
+}
+.pp{
+ padding-left: 100px;
+    padding-right: 100px;
+    text-shadow: 6px 6px 5px rgba(0, 0, 0, .2);
+}
+.name{
+   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    text-shadow: 6px 6px 5px rgba(0, 0, 0, .2);
+}
+.web{
+    text-shadow: 6px 6px 5px rgba(0, 0, 0, .2);  
+}
+.dd, .ddl{
+    margin-top: 5px;
+    float: right;
+    clear: both;
+     text-align: center;
+    font-family: cursive;
+}
+
+.lll{
+    font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+background: white;
+
+    text-shadow: 6px 6px 5px rgba(0, 0, 0, .2);  
+    margin-left: 30px;
+
+}
+.zz {
+    clear: both;
+    
+    margin-bottom: -50px;
+    padding-bottom: 20px;
+    background: white;
+    padding-right: 30px;
+}
+.lll a{
+    text-decoration: none;
+    padding-left: 2px;
+    margin-left: 5px;
+    color:crimson;
+}
+.lll a:hover{
+    color: blue;
+}
+.vv{
+    margin-right: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.res{
+    background-color: darkslategrey;
+}
+form {
+  margin-bottom: 22px;
+}
+
+.ww{
+   
+    clear: both;
+    display: block;
+}
+form{
+    border-radius: 5px;
+    display: inline-block;
+    float: right;
+    width: 300px;
+    clear:both;
+    margin-top: -350px;
+    margin-right: 200px;
+    
+}
+.para{
+    
+   
+    padding-top: 50px;
+    padding-left: 140px;
+    margin-right: 600px;
+}
+.log{
+    display: inline-block;
+    
+}
+.field input{
+    font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: white;
+    border-radius: 5px;
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 27px;
+    margin-left: 10px;
+    width: 300px;
+    border: 1px solid #c6c7cc;
+     box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+    
+}
+.field label{
+     font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   
+    
+    font-size: 20px;
+    
+    margin-left: 10px;
+    color: #648880;
+  cursor: pointer;
+  font-weight: 400;
+}
+.field textarea{
+    width: 300px;
+    margin-top: 22px;
+    height: 50px;
+    margin-left: 10px;
+    height: 78px;
+     margin-bottom: 27px;
+}
+.field select{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 27px;
+}
+.btn{ 
+    margin-left: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #fff;
+    margin-top: 20px;
+    height: 50px;
+    width: 150px;
+   background: #648880;
+    border-radius: 5px;
+    
+
+    
+}
+.rrw:hover
+     {
+ background: #77a198;
+}
+.field select{
+    height: 34px;
+    width: 50px;
+}
+.nbv{
+     font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
